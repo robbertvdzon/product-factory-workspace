@@ -1,3 +1,12 @@
+---
+product: hkh-autopilot
+artifact_type: evaluation
+run_id: evaluation-hkh-autopilot-2
+date: 2026-08-08
+status: approved
+sources:
+  - research/shadow-iteration-0015.md
+---
 # Evaluatie hkh-autopilot-2
 
 - Product: `hkh-autopilot`
